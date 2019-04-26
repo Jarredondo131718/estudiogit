@@ -9,4 +9,4 @@ git commit -m"comentario"
    git config --global user.name "jose arredondo"
 6. en cualquier momento git log
 7. solo por peticion git checkout jose.txt, desahacer los cambios de este archivo
- 
+8.git diff jose.txt, ver cambios realizados 
