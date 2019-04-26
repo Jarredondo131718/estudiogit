@@ -9,4 +9,15 @@ git commit -m"comentario"
    git config --global user.name "jose arredondo"
 6. en cualquier momento git log
 7. solo por peticion git checkout jose.txt, desahacer los cambios de este archivo
-8.git diff jose.txt, ver cambios realizados 
+8.git diff jose.txt, ver cambios realizados
+
+9. tomemos la primera foto del proyecto : git branch v1
+
+10. para cambarme a esta version o rama : git checkout v1
+11. si damos git branch nos muetra en verde la rama actua
+11. si damos git branch nos muetra en verde la rama actua
+11. si damos git branch nos muetra en verde la rama actua
+11. si damos git branch nos muetra en verde la rama actua
+11. si damos git branch nos muetra en verde la rama actua
+11. si damos git branch nos muetra en verde la rama actua
+11. si damos git branch nos muetra en verde la rama actua 
