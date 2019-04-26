@@ -4,4 +4,7 @@ primer paso.
 3. git add .
 4. apartir de aca podemos hacer el primer commit
 git commit -m"comentario"
+5. solo por una ves configuracion
+   git config --global user.email "jarredondovelez@gmail.com"
+   git config --global user.name "jose arredondo"
 
