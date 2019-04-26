@@ -1,10 +1,10 @@
 primer paso.
 1.git init 
-2. git status
+2. git status en cualquier momento 
 3. git add .
 4. apartir de aca podemos hacer el primer commit
 git commit -m"comentario"
 5. solo por una ves configuracion
    git config --global user.email "jarredondovelez@gmail.com"
    git config --global user.name "jose arredondo"
-
+6. en cualquier momento git log
