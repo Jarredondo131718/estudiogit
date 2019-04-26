@@ -1,0 +1,7 @@
+primer paso.
+1.git init 
+2. git status
+3. git add .
+4. apartir de aca podemos hacer el primer commit
+git commit -m"comentario"
+
