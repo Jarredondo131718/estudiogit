@@ -15,4 +15,8 @@ git commit -m"comentario"
 
 10. para cambarme a esta version o rama : git checkout v1
 11. si damos git branch nos muetra en verde la rama actua
- 
+12. ver diferencia entre ramas git diff --stat master v1, entre master y v1
+13 para fucionar las ramas hecemos esto:
+  a. git checkout master, nos pasamos a la master
+  b. git merge v1 fucionamos la rama ve en la maser a.
+14. podemos eliminal la rama v1 : git branch -d v1 
