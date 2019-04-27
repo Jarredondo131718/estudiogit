@@ -15,9 +15,4 @@ git commit -m"comentario"
 
 10. para cambarme a esta version o rama : git checkout v1
 11. si damos git branch nos muetra en verde la rama actua
-11. si damos git branch nos muetra en verde la rama actua
-11. si damos git branch nos muetra en verde la rama actua
-11. si damos git branch nos muetra en verde la rama actua
-11. si damos git branch nos muetra en verde la rama actua
-11. si damos git branch nos muetra en verde la rama actua
-11. si damos git branch nos muetra en verde la rama actua 
+ 
