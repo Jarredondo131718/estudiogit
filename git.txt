@@ -20,3 +20,5 @@ git commit -m"comentario"
   a. git checkout master, nos pasamos a la master
   b. git merge v1 fucionamos la rama ve en la maser a.
 14. podemos eliminal la rama v1 : git branch -d v1 
+15. cree un proyecto en githab 
+    seggui los paso indicados para llevar este proyecto y luego hice push origen master
